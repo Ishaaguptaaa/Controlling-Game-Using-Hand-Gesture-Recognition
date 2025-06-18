@@ -1,0 +1,5 @@
+train: C:/Isha/images/train
+val: C:/Isha/images/train
+
+nc: 3
+names: ['closed fist', 'finger_curl', 'open_palm']
